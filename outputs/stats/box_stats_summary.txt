@@ -1,0 +1,19 @@
+=== DigestPath Box Statistics ===
+Positive XML files             : 77
+Total boxes                    : 9710
+Mean boxes per positive image  : 126.10
+Median boxes per image         : 106.00
+Min boxes per image            : 8
+Max boxes per image            : 351
+
+Mean box width (px)            : 59.35
+Median box width (px)          : 56.00
+Min/Max box width (px)         : 18 / 188
+
+Mean box height (px)           : 59.03
+Median box height (px)         : 56.00
+Min/Max box height (px)        : 17 / 178
+
+Mean relative width            : 0.029164
+Mean relative height           : 0.028936
+Mean relative area             : 0.00088880
